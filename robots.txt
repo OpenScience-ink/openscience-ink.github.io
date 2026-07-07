@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://openscience-ink.github.io/sitemap.xml
