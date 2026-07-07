@@ -56,6 +56,12 @@ a {
   text-decoration: none;
 }
 
+.brand-logo {
+  display: block;
+  width: 190px;
+  height: auto;
+}
+
 .brand-mark {
   display: inline-grid;
   place-items: center;
