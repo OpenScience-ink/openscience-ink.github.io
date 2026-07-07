@@ -6,7 +6,6 @@
   const columns = [
     'papers_summarized_count',
     'weekly_issues_published_count',
-    'public_sitemap_url_count',
   ]
 
   function toCount(value) {
